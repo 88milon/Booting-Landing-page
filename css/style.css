@@ -1,0 +1,46 @@
+.banner{
+	background-image: url(../image/bg.png);
+}
+
+h1{
+	
+	font-size: 35px;
+	text-align: center;
+}
+h2{
+	padding-top: 20px;
+	font-size: 40px;
+	font-weight: bold;
+}
+h4{
+	padding-top: 10px;
+	padding-bottom: 30px;
+	
+}
+.col-4 p{
+	text-align: justify;
+	font-size: 14px
+	padding-top:10px;
+}
+.bg-1 { 
+    background-color: #67cef6b3;
+    color: #ffffff;
+  }
+  .bg-2 { 
+    background-color: #474e5d;
+    color: #ffffff;
+  }
+  .col-6 h1{
+  	text-align: left;
+	padding-top: 25px;
+	padding-bottom: 15px;
+	font-weight: bold;
+  }
+  .col-6 p{
+  	text-align: left;
+	font-size: 15px;
+  }
+  .contact{
+  	padding-top: 100px;
+	margin-left: 150px;
+  }
